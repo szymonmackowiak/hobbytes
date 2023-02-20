@@ -7,3 +7,8 @@ Obrazy Hobbajtów znajdują się w katalogu img.
 Obrazy można wstawiać do dokumentów MD za pomocą znacznika HTML img:
 
 <img src = "https://raw.githubusercontent.com/szymonmackowiak/hobbytes/main/img/hobbit1a.png">
+
+<img src = "img/hobbit2b.png">
+
+
+<img src = "img/hobbit3b.png">
