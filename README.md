@@ -6,9 +6,11 @@ Obrazy Hobbajtów znajdują się w katalogu img.
 
 Obrazy można wstawiać do dokumentów MD za pomocą znacznika HTML img:
 
-<img src = "https://raw.githubusercontent.com/szymonmackowiak/hobbytes/main/img/hobbit1a.png">
 
-<img src = "img/hobbit2b.png">
+# Hobbajt Staszek
 
+<img src = "img/hobbit1a.png">
+
+Dawno temu, za siedmioma górami i za siedmioma lasami w Wolsztynie, a konkretnie, na wolsztyńskiej wyspie mieszkał Hobbajt Staszek.
 
 <img src = "img/hobbit3b.png">
